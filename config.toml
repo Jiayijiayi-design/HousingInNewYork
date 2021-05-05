@@ -2,7 +2,7 @@ baseURL = "https://Jiayijiayi-design.github.io/"
 languageCode = "en-us"
 title = "Is NY housing prices affected by crime or not ?"
 disableKinds = ["sitemap", "RSS"]
-theme = "webslides"
+theme = "hugo-webslides"
 
 [params]
   author = "RCJacH"
