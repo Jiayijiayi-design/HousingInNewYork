@@ -1,0 +1,29 @@
+baseURL = "https://Jiayijiayi-design.github.io/HousingInNewYork/"
+languageCode = "en-us"
+title = "Is NY housing prices affected by crime or not ?"
+disableKinds = ["sitemap", "RSS"]
+theme = "webslides"
+
+[params]
+  author = "RCJacH"
+  homepage = "RCJacH.github.io"
+
+
+[params.webslides]
+  banner = false
+  slideshow = true
+  vertical = false
+  autoslide = false
+  changeOnClick = false
+  disableLoop = false
+  minWheelDelta = 40
+  disableNavigateOnScroll = false
+  scrollWait = 450
+  slideOffset = 50
+  hideIndex = false
+
+[markup]
+  defaultMarkdownHandler = "blackfriday"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+    unsafe = true
