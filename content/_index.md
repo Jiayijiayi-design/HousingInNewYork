@@ -156,6 +156,7 @@ Thus, for random crimes such as robberies and assaults, choosing areas with high
 ---
 <!--: .wrap -->
 ## **Distribution of types of house price-related crime**
+
 |||v
 
 ![com](/images/crime/arrest_b_p.png)
@@ -167,6 +168,7 @@ After some research, we found that not all crime types have an impact on house p
 ---
 <!--: .wrap -->
 ## **We combine the most interesting features of each data set**
+
 |||v
 
 ![com](/images/com.png)
