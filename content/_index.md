@@ -118,13 +118,8 @@ If we look closer to each borough then are the races represented differently.
 For Berit race does not matter but it is an interesting that police register this.
 
 
-|||v
+![arr](/images/crime/combined_bar_crime.png)
 
-![arr](/images/crime/race_perc.png)
-
-|||
-
-![ar](/images/crime/arrest_b.png)
 
 ---
 <!--: .wrap -->
@@ -163,7 +158,7 @@ Thus, for random crimes such as robberies and assaults, choosing areas with high
 ## **Distribution of types of house price-related crime**
 |||v
 
-
+![com](/images/crime/arrest_b_p.png)
 
 |||
 
