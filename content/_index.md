@@ -240,3 +240,12 @@ The most expensive group has none of the residents in Richmond /staten island, m
 - If Berit wants to live as cheap as possible the chances of getting an apartment are highest in Queens and Bronx.
 
 - If Berit wants to go with Queens and Bronx, she will have chance of robbery compared to expensive areas. At the same time she should be prepared for higher risk of assault.
+
+
+
+---
+<!--: .wrap .fadeInUp bg=bg-black bg=aligncenter bgimage=images/G.jpg -->
+
+# {{< svg fa-heart-o >}} Here is the link to Explainer notebook
+
+[**CLICK HERE**](https://drive.google.com/drive/folders/1zsXw7st3AIx1puCNJzNkrASYqK2j78r5?usp=sharing)
